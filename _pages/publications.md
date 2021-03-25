@@ -9,7 +9,8 @@ author_profile: true
     <p>  <b>3D People: geometry of dressed humans</b><br>
 	author1, me, author2, author3 <br>
 	<i> ICCV 2019 </i> <br>
-	[Project](https://cv.iri.upc-csic.es/)  [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pumarola_3DPeople_Modeling_the_Geometry_of_Dressed_Humans_ICCV_2019_paper.pdf)
+	<a href="https://cv.iri.upc-csic.es">[Project]</a>
+ [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pumarola_3DPeople_Modeling_the_Geometry_of_Dressed_Humans_ICCV_2019_paper.pdf)
     </p>
 </div>
 
