@@ -4,7 +4,10 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+
+Despatx 20. Tel. +34 93 401 07 75 <br>
+
+Institut de Robòtica i Informàtica Industrial, CSIC-UPC.<br>
+Parc Tecnològic de Barcelona. C/ Llorens i Artigas 4-6,<br>
+08028, Barcelona. <br>
 

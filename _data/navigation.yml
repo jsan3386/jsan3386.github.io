@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /files/lantaoyu_cv.pdf
+
 
   - title: "Publications"
     url: /publications/
@@ -21,6 +20,9 @@ main:
   # - title: "Blogs"
   #   url: /year-archive/
     
+  - title: "CV"
+    url: /files/CVA_jordi.pdf
+
   - title: "Contact"
     url: /contact/  
     
