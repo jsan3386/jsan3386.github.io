@@ -6,11 +6,12 @@ author_profile: true
 
 <div>
     <p style="float: left;"><img src="https://jsan3386.github.io/images/3dpeople.jpg" height="100px" width="200px" border="1px"></p>
-    <p>  <b>3D People: geometry of dressed humans</b><br>
-	author1, me, author2, author3 <br>
-	<i> ICCV 2019 </i> <br>
+    <p>  <b>3DPeople: Modeling the Geometry of Dressed Humans</b><br>
+	Albert Pumarola, <b>Jordi Sanchez-Riera</b>, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer <br>
+	<i> In ICCV 2019 </i> <br>
 	<a href="https://cv.iri.upc-csic.es">[Project]</a>
- [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pumarola_3DPeople_Modeling_the_Geometry_of_Dressed_Humans_ICCV_2019_paper.pdf)
+        <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Pumarola_3DPeople_Modeling_the_Geometry_of_Dressed_Humans_ICCV_2019_paper.pdf">[pdf]</a>
+	<a href="https://jsan3386.github.io/_publications/3dpeople_bibtex.md">[bibtex]</a>
     </p>
 </div>
 
