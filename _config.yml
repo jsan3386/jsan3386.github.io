@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
+  avatar           : # "lantaoyu.jpg"
   bio              : "Ph.D. student, Computer Science Department, Stanford University"
   location         : "Stanford, California"
   employer         : 
