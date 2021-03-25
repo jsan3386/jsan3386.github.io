@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Jordi Sanchez-Riera"
-  avatar           : # "lantaoyu.jpg"
+  avatar           : "me.jpg"
   bio              : "Research Assistant CSIC IRII"
   location         : "Barcelona"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=SneYDPwAAAAJ&hl=ca"
   email            : "jsanchez@iri.upc.edu"
   uri              : 
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "jsan3386"
   google_plus      :
   keybase          :
   instagram        : 

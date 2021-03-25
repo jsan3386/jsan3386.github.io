@@ -12,13 +12,10 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-# About Me
-* Blablabla
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+Jordi Sanchez-Riera is an associate researcher of the Spanish Scientific Research Council (CSIC) in the [Institut de Robòtica i Informàtica Industrial (IRI)](https://www.iri.upc.edu/) in Barcelona. He obtained his B.S. degree in computer science and M.S degree in electronic engineering from [Technical University of Catalonia (UPC)](https://www.upc.edu/ca), and the Ph.D. degree from [University of Grenoble](https://www.univ-grenoble-alpes.fr/) under the supervision of Radu Horaud in [INRIA-Rhone Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes). 
+
+Before his Ph.D. he had the opportunity to work as a research assistant at NASA Ames research center in human centered computing topics, and at the IDIAP-EPFL in biometrics security algorithms. During his Ph.D. he participated in the European project FP7-ICT-HUMAVIPS, and collaborated with several international research laboratories such as CTU in Czech Republic, IDIAP in Switzerland, BIU in Germany and at the company Aldebaran  Robotics in France.  After his Ph.D. he joined as a post-doctoral researcher in the Multimedia Computing Research group at [Academia Sinica](https://www.sinica.edu.tw/en) in Taiwan. 
+
+He has been awarded with a Google Scholarship for Students with Disabilities, with the Academia Sinica Post-Doc Fellowship (<30% acceptance rate) and with a Juan de la Cierva Incorporacion 2015 (<10% acceptance rate).
 
 
-# Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021, ICML 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR), IEEE Robotics and Automation Letters (RA-L).
