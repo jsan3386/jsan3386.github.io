@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div>
+    <p style="float: left;"><img src="https://jsan3386.github.io/files/me.jpg" height="200px" width="200px" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
+
 
 <br>
 <b>A Comparative Study of Data Fusion for RGB-D Based Visual Recognition.</b> <br>
