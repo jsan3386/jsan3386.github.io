@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
 
 Jordi Sanchez-Riera is an associate researcher of the Spanish Scientific Research Council (CSIC) in the [Institut de Robòtica i Informàtica Industrial (IRI)](https://www.iri.upc.edu/) in Barcelona. He obtained his B.S. degree in computer science and M.S degree in electronic engineering from [Technical University of Catalonia (UPC)](https://www.upc.edu/ca), and the Ph.D. degree from [University of Grenoble](https://www.univ-grenoble-alpes.fr/) under the supervision of Radu Horaud in [INRIA-Rhone Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes). 
 
