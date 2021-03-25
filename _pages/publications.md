@@ -5,14 +5,11 @@ author_profile: true
 ---
 
 
-
-* Journals
 <br>
 <b>A Comparative Study of Data Fusion for RGB-D Based Visual Recognition.</b> <br>
 <b>J. Sanchez-Riera</b>, et al. <br>
 <i>Pattern Recognition Letters</i>. <b> PRL 2015 </b>.
 
-<br>
 <b>RAVEL: An Annotated Corpus for Training Robots with Audiovisual Abilities. </b> <br>
 Alameda-Pineda, <b>J. Sanchez-Riera</b>, et al.  <br>
 <i>In Journal on Multimodal User Interfaces (JMUI), 2012. </i>
@@ -22,7 +19,6 @@ Alameda-Pineda, <b>J. Sanchez-Riera</b>, et al.  <br>
 C. McCool, <b>J. Sanchez-Riera</b>, S. Marcel  <br>
 <i>Pattern Recognition Letters. Feb. 2009. </i>
 
-* Conferences
 
 <br>
 <b>A Robust Tracking Algorithm for 3D Hand Gesture with Rapid Hand Motion through Deep Learning. </b> <br>
