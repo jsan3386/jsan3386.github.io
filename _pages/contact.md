@@ -11,3 +11,5 @@ Institut de Robòtica i Informàtica Industrial, CSIC-UPC.<br>
 Parc Tecnològic de Barcelona. C/ Llorens i Artigas 4-6,<br>
 08028, Barcelona. <br>
 
+emali: jsanchez at iri.upc.edu
+

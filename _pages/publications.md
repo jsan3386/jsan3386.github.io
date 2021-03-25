@@ -11,7 +11,7 @@ author_profile: true
 	<i> In ICCV 2019 </i> <br>
 	<a href="https://cv.iri.upc-csic.es">[Project]</a>
         <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Pumarola_3DPeople_Modeling_the_Geometry_of_Dressed_Humans_ICCV_2019_paper.pdf">[pdf]</a>
-	<a href="https://jsan3386.github.io/_publications/3dpeople_bibtex.md">[bibtex]</a>
+	<a href="https://jsan3386.github.io/files/3dpeople_bibtex.md">[bibtex]</a>
     </p>
 </div>
 
