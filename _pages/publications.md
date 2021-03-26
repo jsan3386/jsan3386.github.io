@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 <div>
-    <p style="float: left;"><img src="https://jsan3386.github.io/images/3dpeople_website.jpg" height="100px" width="100px" border="1px"></p>
+    <p style="float: left;"><img src="https://jsan3386.github.io/images/3dpeople.jpg" height="100px" width="100px" border="1px"></p>
     <p>  <b>3DPeople: Modeling the Geometry of Dressed Humans</b><br>
 	Albert Pumarola, <b>Jordi Sanchez-Riera</b>, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer <br>
 	<i> In ICCV 2019 </i> <br>
