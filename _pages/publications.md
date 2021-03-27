@@ -13,7 +13,7 @@ author_profile: true
 	<a href="https://cv.iri.upc-csic.es" target="_blank">[Project]</a>
         <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Pumarola_3DPeople_Modeling_the_Geometry_of_Dressed_Humans_ICCV_2019_paper.pdf" target="_blank">[pdf]</a>
 	<a href="https://jsan3386.github.io/files/3dpeople_bibtex.md">[bibtex]</a>
-	Dataset created with <a href="https://github.com/jsan3386/avatar" target="_blank">[Avatar]</a>
+	Dataset created with <a href="https://jsan3386.github.io/avatar" target="_blank">[Avatar]</a>
     </p>
 </div>
 
