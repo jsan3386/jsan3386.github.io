@@ -12,6 +12,6 @@ redirect_from:
 
 ### Education
 
-PhD Mathematics University Grenoble - INRIA Rhone-Alpes
-Ms. Electronic Engineering - Technical University Catalonia
-Bs. Computer Science - Technical University Catalonia
+- PhD Mathematics University Grenoble - INRIA Rhone-Alpes
+- Ms. Electronic Engineering - Technical University Catalonia
+- Bs. Computer Science - Technical University Catalonia
