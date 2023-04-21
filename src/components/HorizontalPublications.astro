@@ -11,8 +11,8 @@ const { title, img, authors, conf, url, badge, tags, project_link, pdf_link, tar
           {title}
           {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
         </h1>
-        <p class="py-1 text-1xl">{authors}</p>
-        <p class="py-1 text-1xl">{conf}</p>
+        <div class="py-1 text-1xl">{authors}</div>
+        <div class="py-1 text-1xl">{conf}</div>
         <div class="card-actions justify-end">
           {tags && tags.map((tag) => <div class="badge badge-outline">{tag}</div>)}
         </div>
