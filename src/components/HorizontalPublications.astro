@@ -12,11 +12,11 @@ const { title, img, authors, conf, url, badge, tags, project_link, pdf_link, tar
           {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
         </h1>
         <div class="py-1 text-1xl">{authors}</div>
-        <div class="py-1 text-1xl">{conf}</div>
         <div class="card-actions justify-end">
           {tags && tags.map((tag) => <div class="badge badge-outline">{tag}</div>)}
         </div>
         <div>
+          class="py-1 text-1xl">{conf}
           {
             project_link && (
               <a class="btn btn-info btn-sm grow md:grow-0 ml-4" href={project_link} target="_blank">
