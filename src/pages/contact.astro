@@ -4,20 +4,30 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 ---
 
 <BaseLayout title = "Contact">
-  <div>
-    <div class="text-3xl w-full font-bold mb-5">Contact Information</div>
-  </div>
 
-  <div>
-    Office 20. Tel. +34 93 401 07 75 <br>
+  <div class="text-3xl py-3 font-bold">Contact Information</div>
+    <div class="pb-12 mt-5">
+      <div class="py-2">
+        <text class="text-lg">
+          Office 20. Tel. +34 93 401 07 75
+        </text>
+      </div>
+      <div class="py-2">
+        <text class="text-lg">
+          Institut de Robòtica i Informàtica Industrial, CSIC-UPC.
+          Parc Tecnològic de Barcelona. C/ Llorens i Artigas 4-6,
+          08028, Barcelona. <br>
+        </text>
+      </div>
+      <div class="py-2">
+        <text class="text-lg">
+          email: jsanchez at iri.upc.edu
+        </text>
+      </div>
+    </div>
 
-    Institut de Robòtica i Informàtica Industrial, CSIC-UPC.<br>
-    Parc Tecnològic de Barcelona. C/ Llorens i Artigas 4-6,<br>
-    08028, Barcelona. <br>
-
-    email: jsanchez at iri.upc.edu
-
-    <img src="/post_img.webp" height="500px" width="500px" border="1px">
-  </div>
+    <div>
+      <img src="/map.jpg" height="500px" width="500px" border="1px">
+    </div>
 
 </BaseLayout>
