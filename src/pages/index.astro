@@ -42,67 +42,37 @@ const last_posts = posts.slice(0, 3);
     </div>
 
     <div>
-      <div class="text-3xl w-full font-bold mb-2">Highlight publications {"</>"}</div>
+      <div class="text-3xl w-full font-bold mb-2">News {"</>"}</div>
     </div>
 
-    <HorizontalCard
-      title="Demo Project 1"
-      img="/post_img.webp"
-      desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      url="#"
-      badge="NEW"
-    />
-    <div class="divider my-0"></div>
-    <HorizontalCard
-    title="Demo Project 2"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-  />
-    <div class="divider my-0"></div>
-    <HorizontalCard
-    title="Demo Project 3"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="FOSS"
-  />
-
-
-    <div>
-      <div class="text-3xl w-full font-bold mb-5 mt-10">Highlight projects</div>
+    <div class="py-2">
+      <text class="text-lg">
+        New project with Biel Glasses to execute until 2025
+      </text>
     </div>
-
-    {
-      last_posts.map((post) => (
-        <HorizontalCard
-          title={post.data.title}
-          img={post.data.heroImage}
-          desc={post.data.description}
-          url={"/blog/" + post.slug}
-          target="_self"
-          badge={post.data.badge}
-        />
-        <div class="divider my-0"></div>
-      ))
-    }
-
 
     <div>
       <div class="text-3xl w-full font-bold mb-5 mt-10">Students</div>
     </div>
 
-    <div>
-      - Ibrar Malik (PhD)
-      - Antonio Canela (PhD)
-
-      #### Alumni
-
-      - Elías Abad
-      - Marc Seguí
-      - Aniol Civit
-      - Mohammad Almasi (TFM)
-      - Marta Altarriba
+    <div class="py-2">
+      <text class="text-lg">
+        (PhD) Ibrar Malik 2023-2026 co-supervised with F. Moreno-Noguer and Gil Triginer
+        (PhD) Antonio Canela 2022-2025 co-supervised with F. Moreno-Noguer and Gil Triginer
+      </text>
     </div>
+
+    <div class="text-xl py-1">Alumni</div>
+
+    <div class="py-2">
+      <text class="text-lg">
+        (AVATAR) Marc Seguí 2022
+        (HELIPORTS)Elías Abad 2021
+        (AVATAR) Aniol Civit 2020
+        (TFM) Mohammad Almasi 2019
+        (AVATAR) Marta Altarriba 1018
+      </text>
+    </div>
+
 
 </BaseLayout>
